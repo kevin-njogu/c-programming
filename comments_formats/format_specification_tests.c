@@ -8,4 +8,5 @@ int main() {
     printf("num1 = %d, num2 = %d, sum = %d\n", 3, 4, 3+4);
     printf("mark1 = %d, mark2 = %f, sum = %f\n", 3, 2.2, 3+2.2);
     printf("a = %d, b = %d, sum = a+b = %d + %d = %d\n", 2, 3, 2, 3, 2+3);
+    return 0;
 }
