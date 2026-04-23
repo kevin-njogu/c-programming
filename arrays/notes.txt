@@ -1,0 +1,19 @@
+Declaring an array
+    - int arr[5] ---> smaple declaration of an array with 5 items
+    - int testArr[]
+
+
+Initializing a array - by specifying the values of an arrayv instantly
+    - int arr[3] = {5,7,10}
+    - char name[5] = {'K', 'E', 'V', 'I', 'N'}
+    - int testArr[] = {1,2,3,4,5} 
+
+
+2nd way of initializing an array - an example of array of zeros
+    - int arr[5] = {0} - all five items will be zero
+    - int arr[5] = {1,2} - the first two items will be 1 and 2 and the rest will be autofilled with zero
+
+
+Accessing elements of an array
+    - <ArrName> <[index]> e.g - testArr[2] = 3;
+    - modifying an arr item = testArr[2] = 4 ---> will change from 3 to 4
