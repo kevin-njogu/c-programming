@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777788930 source:c:\users\kevin\documents\c-programming\files_operations\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1777791806 source:c:\users\kevin\documents\c-programming\files_operations\create_empty_file.c
+	<stdio.h>
+
+1777791816 source:c:\users\kevin\documents\c-programming\files_operations\read_char.c
+	<stdio.h>
+
